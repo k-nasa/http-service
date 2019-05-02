@@ -15,7 +15,7 @@
   </a>
   <!-- Build Status -->
   <a href="https://travis-ci.org/rust-net-web/http-service">
-    <img src="https://img.shields.io/travis/rust-net-web/http-service.svg?style=flat-square"
+    <img src="https://img.shields.io/travis/rustasync/http-service.svg?style=flat-square"
       alt="Build Status" />
   </a>
   <!-- Downloads -->
